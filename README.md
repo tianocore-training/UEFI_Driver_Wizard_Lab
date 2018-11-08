@@ -32,5 +32,5 @@
 # UEFI_Driver_Wizard_lab
 Create a UEFI Driver with the UEFI Driver Wizard
 
-To see the Slides goto https://gitpitch.com/Laurie0131/UEFI_Driver_Wizard_lab/master#/
+To see the Slides goto https://gitpitch.com/tianocore-training/UEFI_Driver_Wizard_lab/master#/
 

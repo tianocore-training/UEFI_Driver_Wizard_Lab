@@ -199,7 +199,7 @@ Note:
 <br>
 <p align="right"><span class="gold" >Lab 1: Install UEFI Driver Wizard, Python & wxPython</span></p>
 <ol>
-   <li><span style="font-size:0.8em" >Perform <a href="https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/">Lab Setup</a> from previous Labs  </span></li>
+   <li><span style="font-size:0.8em" >Perform <a href="https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/">Lab Setup</a> from previous Labs  </span></li>
    <li><span style="font-size:0.8em" >From the `~FW/DriverWizard` folder, copy and paste folder “`~FW/DriverWizard/UefiDriverWizard`” to `~$Home`  </span></li>
    <li><span style="font-size:0.8em" >Check  if version 2.7.x is the default of Python from Terminal Prompt </span></li>
    <ul style="list-style-type:none">
